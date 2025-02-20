@@ -1,4 +1,4 @@
-﻿altair==5.5.0
+altair==5.5.0
 antlr4-python3-runtime==4.9.3
 attrs==24.3.0
 blinker==1.9.0
@@ -64,7 +64,4 @@ tzdata==2024.2
 urllib3==2.3.0
 watchdog==6.0.0
 ffmpeg-python
-pydub
-torchaudio
-
 system:ffmpeg
